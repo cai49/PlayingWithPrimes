@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c26a0968-c9e5-4daa-8d76-f63bd4da036a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PlayingWithPrimes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="c26a0968-c9e5-4daa-8d76-f63bd4da036a" name="Changes" comment="Weird Prime Fibonacci Stuff" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,8 +85,25 @@
       <option name="presentableId" value="Default" />
       <updated>1710921600603</updated>
       <workItem from="1710921605623" duration="135000" />
-      <workItem from="1710921753261" duration="614000" />
+      <workItem from="1710921753261" duration="1390000" />
     </task>
+    <task id="LOCAL-00001" summary="Weird Prime Fibonacci Stuff">
+      <option name="closed" value="true" />
+      <created>1710923125553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710923125553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Weird Prime Fibonacci Stuff">
+      <option name="closed" value="true" />
+      <created>1710923133210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710923133210</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +120,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Weird Prime Fibonacci Stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Weird Prime Fibonacci Stuff" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PlayingWithPrimes$main.coverage" NAME="main Coverage Results" MODIFIED="1710922362490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PlayingWithPrimes$main.coverage" NAME="main Coverage Results" MODIFIED="1710923091975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
